@@ -1,0 +1,5 @@
+﻿Time Elapsed: 00:00:00.2763678
+========== Finished ==========
+
+
+Restored C:\Users\Lenovo\Desktop\програмиране\First Steps In Coding - Lab\Hello Softuni\Hello Softuni.csproj (in 56 ms).
